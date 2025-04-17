@@ -1,0 +1,29 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/.pytest_cache
+**/.coverage
+**/htmlcov
+
+# Distribution / packaging
+**/*.egg
+**/*.egg-info
+
+# Virtual environments
+**/venv
+**/env
+
+# IDE
+.idea
+.vscode
+
+# Project specific
+**/.cache
